@@ -1,0 +1,13 @@
+%BG%
+%FONT%
+My Time: %TIME%
+<br>
+My Date: %DATE%
+<br>
+My Time+Date: %NOW%
+<br>
+Random Item: %RAND%
+<br>
+Your IP: %IP%
+<br>
+Hit Counter %HITS%
